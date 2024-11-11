@@ -1,3 +1,5 @@
+NAME: Omar Ahmed Hussein
+ID: C1220299
 import java.util.Arrays;
 
 public class Assignment<T> {
